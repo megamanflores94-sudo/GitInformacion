@@ -1,0 +1,6 @@
+print("Maximiliano Flores García")
+print("La mentalidad o algo parecido")
+print("El aprender algo nuevo")
+print("poder comprarme una laptop con mi propio esfuerzo")
+print("Feel God Inc. Gorrillaz")
+print("Lo que yo hice en mis vacaciones de el mes pasado no fue mucha cosa solo estuve en mi casa sin poder salir con nadie por muchas cuestiones por el dinero o por rl lugar de donde viven y pues me la pase casi todo el día dormido")
